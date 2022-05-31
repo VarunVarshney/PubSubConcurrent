@@ -1,0 +1,115 @@
+Execute Job | Subscribe | Topic = 2, total subs now = 1
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 74
+	Calling callback | Topic = 2, Topic PageData = HTML body 74
+Execute Job | Subscribe | Topic = 2, total subs now = 2
+Execute Job | Publish | Topic = 1, Topic PageData = HTML body 79
+Execute Job | Publish | Topic = 1, Topic PageData = HTML body 66
+Execute Job | Subscribe | Topic = 3, total subs now = 1
+Execute Job | Subscribe | Topic = 1, total subs now = 1
+Execute Job | Publish | Topic = 1, Topic PageData = HTML body 43
+	Calling callback | Topic = 1, Topic PageData = HTML body 43
+Execute Job | Subscribe | Topic = 2, total subs now = 3
+Execute Job | Subscribe | Topic = 1, total subs now = 2
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 13
+	Calling callback | Topic = 2, Topic PageData = HTML body 13
+	Calling callback | Topic = 2, Topic PageData = HTML body 13
+	Calling callback | Topic = 2, Topic PageData = HTML body 13
+Execute Job | Subscribe | Topic = 1, total subs now = 3
+Execute Job | Subscribe | Topic = 1, total subs now = 4
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 34
+	Calling callback | Topic = 2, Topic PageData = HTML body 34
+	Calling callback | Topic = 2, Topic PageData = HTML body 34
+	Calling callback | Topic = 2, Topic PageData = HTML body 34
+Execute Job | Subscribe | Topic = 3, total subs now = 2
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 68
+	Calling callback | Topic = 2, Topic PageData = HTML body 68
+	Calling callback | Topic = 2, Topic PageData = HTML body 68
+	Calling callback | Topic = 2, Topic PageData = HTML body 68
+Execute Job | Publish | Topic = 3, Topic PageData = HTML body 34
+	Calling callback | Topic = 3, Topic PageData = HTML body 34
+	Calling callback | Topic = 3, Topic PageData = HTML body 34
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 50
+	Calling callback | Topic = 2, Topic PageData = HTML body 50
+	Calling callback | Topic = 2, Topic PageData = HTML body 50
+	Calling callback | Topic = 2, Topic PageData = HTML body 50
+Execute Job | Subscribe | Topic = 3, total subs now = 3
+Execute Job | Publish | Topic = 1, Topic PageData = HTML body 22
+	Calling callback | Topic = 1, Topic PageData = HTML body 22
+	Calling callback | Topic = 1, Topic PageData = HTML body 22
+	Calling callback | Topic = 1, Topic PageData = HTML body 22
+	Calling callback | Topic = 1, Topic PageData = HTML body 22
+Execute Job | Subscribe | Topic = 2, total subs now = 4
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 37
+	Calling callback | Topic = 2, Topic PageData = HTML body 37
+	Calling callback | Topic = 2, Topic PageData = HTML body 37
+	Calling callback | Topic = 2, Topic PageData = HTML body 37
+	Calling callback | Topic = 2, Topic PageData = HTML body 37
+Execute Job | Subscribe | Topic = 3, total subs now = 4
+Execute Job | Publish | Topic = 3, Topic PageData = HTML body 92
+	Calling callback | Topic = 3, Topic PageData = HTML body 92
+	Calling callback | Topic = 3, Topic PageData = HTML body 92
+	Calling callback | Topic = 3, Topic PageData = HTML body 92
+	Calling callback | Topic = 3, Topic PageData = HTML body 92
+Execute Job | Subscribe | Topic = 1, total subs now = 5
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 2
+	Calling callback | Topic = 2, Topic PageData = HTML body 2
+	Calling callback | Topic = 2, Topic PageData = HTML body 2
+	Calling callback | Topic = 2, Topic PageData = HTML body 2
+	Calling callback | Topic = 2, Topic PageData = HTML body 2
+Execute Job | Subscribe | Topic = 3, total subs now = 5
+Execute Job | Subscribe | Topic = 3, total subs now = 6
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 69
+	Calling callback | Topic = 2, Topic PageData = HTML body 69
+	Calling callback | Topic = 2, Topic PageData = HTML body 69
+	Calling callback | Topic = 2, Topic PageData = HTML body 69
+	Calling callback | Topic = 2, Topic PageData = HTML body 69
+Execute Job | Subscribe | Topic = 3, total subs now = 7
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 23
+	Calling callback | Topic = 2, Topic PageData = HTML body 23
+	Calling callback | Topic = 2, Topic PageData = HTML body 23
+	Calling callback | Topic = 2, Topic PageData = HTML body 23
+	Calling callback | Topic = 2, Topic PageData = HTML body 23
+Execute Job | Subscribe | Topic = 2, total subs now = 5
+Execute Job | Publish | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+	Calling callback | Topic = 3, Topic PageData = HTML body 2
+Execute Job | Subscribe | Topic = 2, total subs now = 6
+Execute Job | Publish | Topic = 1, Topic PageData = HTML body 29
+	Calling callback | Topic = 1, Topic PageData = HTML body 29
+	Calling callback | Topic = 1, Topic PageData = HTML body 29
+	Calling callback | Topic = 1, Topic PageData = HTML body 29
+	Calling callback | Topic = 1, Topic PageData = HTML body 29
+	Calling callback | Topic = 1, Topic PageData = HTML body 29
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+	Calling callback | Topic = 2, Topic PageData = HTML body 36
+Execute Job | Subscribe | Topic = 2, total subs now = 7
+Execute Job | Subscribe | Topic = 2, total subs now = 8
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+	Calling callback | Topic = 2, Topic PageData = HTML body 66
+Execute Job | Publish | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+	Calling callback | Topic = 2, Topic PageData = HTML body 64
+Program ended with exit code: 0
