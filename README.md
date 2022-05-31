@@ -5,11 +5,11 @@ A thread safe CPP library for providing Publish/Subscribe interface
  * PubSub - Is a multithreaded publisher-subscriber library which manages thread management on its own
  * Supports multiple concurrent calls as pulishers/subscribers with multiple topics
  * A bound on request submission is configurable
- *
- * Current internals:
- * 1. Uses 1 background thread for Pub/Sub job execution
- * 2. Uses maximum number of threads as per hardware concurrency for distributing subsciber callbacks
- * 3. For simulation in main function, I have simulated using two subscriber/publisher threads. This cab be tested with more threads
+ 
+ Current internals:
+ 1. Uses 1 background thread for Pub/Sub job execution
+ 2. Uses maximum number of threads as per hardware concurrency for distributing subsciber callbacks
+ 3. For simulation in main function, I have simulated using two subscriber/publisher threads. This cab be tested with more threads
 
 ## Required Packages
 
